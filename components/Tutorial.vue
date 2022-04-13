@@ -11,7 +11,10 @@
           Herzlich Willkommen 
         </h2>
         <p class="mt-3 text-gray-600">
-          Die Webseite befindet sich derzeit im Aufbau. </br>
+          
+      
+
+Die Webseite befindet sich derzeit im Aufbau. </br>
           
         </p>
         
