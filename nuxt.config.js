@@ -14,7 +14,12 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+    {
+      rel: "stylesheet",
+      href:
+        "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,300;1,400|Inter:wght@100;400;500;700&display=swap"
+    }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
