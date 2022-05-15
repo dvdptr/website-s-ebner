@@ -24,7 +24,7 @@
           Die Verarbeitung personenbezogener Daten, beispielsweise des Namens,
           der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen
           Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung
-          und in Übereinstimmung mit den für die Peter Ebner Finanzberatung Plus
+          und in Übereinstimmung mit den für die M.Sc.Psych. Simone Ebner
           geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser
           Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über
           Art, Umfang und Zweck der von uns erhobenen, genutzten und
@@ -35,7 +35,7 @@
         <br />
 
         <p>
-          Die Peter Ebner Finanzberatung Plus hat als für die Verarbeitung
+          M.Sc.Psych. Simone Ebner hat als für die Verarbeitung
           Verantwortlicher zahlreiche technische und organisatorische Maßnahmen
           umgesetzt, um einen möglichst lückenlosen Schutz der über diese
           Internetseite verarbeiteten personenbezogenen Daten sicherzustellen.
@@ -267,7 +267,7 @@
 
         <p>
           Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die
-          Peter Ebner Finanzberatung Plus keine Rückschlüsse auf die betroffene
+          M.Sc.Psych. Simone Ebner keine Rückschlüsse auf die betroffene
           Person. Diese Informationen werden vielmehr benötigt, um (1) die
           Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte
           unserer Internetseite sowie die Werbung für diese zu optimieren, (3)
@@ -275,8 +275,7 @@
           Systeme und der Technik unserer Internetseite zu gewährleisten sowie
           (4) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur
           Strafverfolgung notwendigen Informationen bereitzustellen. Diese
-          anonym erhobenen Daten und Informationen werden durch die Peter Ebner
-          Finanzberatung Plus daher einerseits statistisch und ferner mit dem
+          anonym erhobenen Daten und Informationen werden durch die M.Sc.Psych. Simone Ebner daher einerseits statistisch und ferner mit dem
           Ziel ausgewertet, den Datenschutz und die Datensicherheit in unserem
           Unternehmen zu erhöhen, um letztlich ein optimales Schutzniveau für
           die von uns verarbeiteten personenbezogenen Daten sicherzustellen. Die
@@ -515,11 +514,9 @@
             <br />
 
             <p>
-              Wurden die personenbezogenen Daten von der Peter Ebner
-              Finanzberatung Plus öffentlich gemacht und ist unser Unternehmen
+              Wurden die personenbezogenen Daten von M.Sc.Psych. Simone Ebner öffentlich gemacht und ist unser Unternehmen
               als Verantwortlicher gemäß Art. 17 Abs. 1 DS-GVO zur Löschung der
-              personenbezogenen Daten verpflichtet, so trifft die Peter Ebner
-              Finanzberatung Plus unter Berücksichtigung der verfügbaren
+              personenbezogenen Daten verpflichtet, so trifft M.Sc.Psych. Simone Ebner unter Berücksichtigung der verfügbaren
               Technologie und der Implementierungskosten angemessene Maßnahmen,
               auch technischer Art, um andere für die Datenverarbeitung
               Verantwortliche, welche die veröffentlichten personenbezogenen
@@ -528,8 +525,7 @@
               Verantwortlichen die Löschung sämtlicher Links zu diesen
               personenbezogenen Daten oder von Kopien oder Replikationen dieser
               personenbezogenen Daten verlangt hat, soweit die Verarbeitung
-              nicht erforderlich ist. Der Mitarbeiter der Peter Ebner
-              Finanzberatung Plus wird im Einzelfall das Notwendige veranlassen.
+              nicht erforderlich ist. 
             </p>
             <br />
           </li>
@@ -641,7 +637,7 @@
             <br />
 
             <p>
-              Die Peter Ebner Finanzberatung Plus verarbeitet die
+              Die M.Sc.Psych. Simone Ebner verarbeitet die
               personenbezogenen Daten im Falle des Widerspruchs nicht mehr, es
               sei denn, wir können zwingende schutzwürdige Gründe für die
               Verarbeitung nachweisen, die den Interessen, Rechten und
@@ -652,7 +648,7 @@
 
             <br />
             <p>
-              Verarbeitet die Peter Ebner Finanzberatung Plus personenbezogene
+              Verarbeitet M.Sc.Psych. Simone Ebner personenbezogene
               Daten, um Direktwerbung zu betreiben, so hat die betroffene Person
               das Recht, jederzeit Widerspruch gegen die Verarbeitung der
               personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen.
@@ -719,7 +715,7 @@
               eines Vertrags zwischen der betroffenen Person und dem
               Verantwortlichen erforderlich oder (2) erfolgt sie mit
               ausdrücklicher Einwilligung der betroffenen Person, trifft die
-              Peter Ebner Finanzberatung Plus angemessene Maßnahmen, um die
+              M.Sc.Psych. Simone Ebner angemessene Maßnahmen, um die
               Rechte und Freiheiten sowie die berechtigten Interessen der
               betroffenen Person zu wahren, wozu mindestens das Recht auf
               Erwirkung des Eingreifens einer Person seitens des

@@ -12,7 +12,7 @@
         </section>
         <section class="text-normal text-gray-700">Simone Ebner, Paulinstr. 75, 54292 Trier</section>
         <section class="text-normal text-gray-700">
-          Mobil:  0170 47 43 684 <br>
+          Mobil:  01573 18 94 114<br>
           e-Mail: <a href="mailto:simoneebner@posteo.de" target="_blank"
               >simoneebner@posteo.de</a
             >
