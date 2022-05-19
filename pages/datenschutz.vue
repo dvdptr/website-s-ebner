@@ -617,8 +617,7 @@
 
             <p>
               Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich
-              die betroffene Person jederzeit an einen Mitarbeiter der Peter
-              Ebner Finanzberatung Plus wenden.
+              die betroffene Person jederzeit an einen Mitarbeiter von M.Sc.Psych. Simone Ebner wenden.
             </p>
             <br />
           </li>
@@ -655,8 +654,7 @@
               Dies gilt auch für das Profiling, soweit es mit solcher
               Direktwerbung in Verbindung steht. Widerspricht die betroffene
               Person gegenüber von M.Sc.Psych. Simone Ebner der
-              Verarbeitung für Zwecke der Direktwerbung, so wird die Peter Ebner
-              Finanzberatung Plus die personenbezogenen Daten nicht mehr für
+              Verarbeitung für Zwecke der Direktwerbung, so wird M.Sc.Psych. Simone Ebner die personenbezogenen Daten nicht mehr für
               diese Zwecke verarbeiten.
             </p>
             <br />
@@ -664,8 +662,7 @@
             <p>
               Zudem hat die betroffene Person das Recht, aus Gründen, die sich
               aus ihrer besonderen Situation ergeben, gegen die sie betreffende
-              Verarbeitung personenbezogener Daten, die bei der Peter Ebner
-              Finanzberatung Plus zu wissenschaftlichen oder historischen
+              Verarbeitung personenbezogener Daten, die bei M.Sc.Psych. Simone Ebner zu wissenschaftlichen oder historischen
               Forschungszwecken oder zu statistischen Zwecken gemäß Art. 89 Abs.
               1 DS-GVO erfolgen, Widerspruch einzulegen, es sei denn, eine
               solche Verarbeitung ist zur Erfüllung einer im öffentlichen
@@ -675,8 +672,7 @@
 
             <p>
               Zur Ausübung des Rechts auf Widerspruch kann sich die betroffene
-              Person direkt an jeden Mitarbeiter der Peter Ebner Finanzberatung
-              Plus oder einen anderen Mitarbeiter wenden. Der betroffenen Person
+              Person direkt an jeden Mitarbeiter von M.Sc.Psych. Simone Ebner oder einen anderen Mitarbeiter wenden. Der betroffenen Person
               steht es ferner frei, im Zusammenhang mit der Nutzung von Diensten
               der Informationsgesellschaft, ungeachtet der Richtlinie
               2002/58/EG, ihr Widerspruchsrecht mittels automatisierter
