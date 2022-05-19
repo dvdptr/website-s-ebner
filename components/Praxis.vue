@@ -10,7 +10,7 @@
         class="text-gray-800 text-lg md:text-xl w-full md:w-10/12 text-center m-auto pt-6 font-normal"
       >
         <p>
-          Eindrücke der Praxis in Trier, Paulinstr. 75. 
+          Praxisraum in der Paulinstr. 75. 
         </p></section>
         
         <div class="md:flex mx-auto justify-around">
