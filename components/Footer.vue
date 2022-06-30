@@ -16,8 +16,7 @@
       <section class="py-4 mr-12">
         <p class="font-bold pb-1">Kontakt</p>
         Mobil: 01573 18 94 114<br />e-Mail: <a href="mailto:simoneebner@posteo.de" target="_blank"
-              >simoneebner@posteo.de</a
-            >
+              >simoneebner@posteo.de</a>
       </section>
     </div>
     <section class="py-4 mr-12">
